@@ -13,4 +13,8 @@ KeyAdapter and KeyEvent: The code imports the java.awt.event.KeyAdapter and java
 
 ImageIcon: The code uses the ImageIcon class from the javax.swing package to load and manage image icons.
 
+JFrame: The JFrame class is a part of the Swing library and represents a window in a GUI application. It provides methods and properties for managing the window's appearance and behavior.
+
+Board: The code references a custom class called "Board." Without the definition of the Board class, it's not possible to determine the specific technologies used within that class. However, based on the code provided, it is likely that the Board class is responsible for rendering the game board and handling the game logic.
+
 Overall, the code combines various Java technologies such as Swing, AWT, timers, and event handling to create a simple game board with graphics and user interaction.
